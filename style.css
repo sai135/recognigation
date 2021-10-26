@@ -1,0 +1,9 @@
+body {
+    background-color:blueviolet;
+    }
+#label1, #label2 {
+    background-color: blue;
+    height: 30px;
+    width:500px;
+    border-radius: 5%;
+}
